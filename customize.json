@@ -1,5 +1,5 @@
 {
-  "greeting": "",
+  "greeting": "Hai",
   "name": "Eni",
   "greetingText": "ingat ga hari ini hari apa ?",
   "wishText": "Belum ada kata-kata mau ngucapin apa aja",
@@ -17,7 +17,7 @@
   "bigTextPart1": "JA",
   "bigTextPart2": "DI",
   "wishHeading": "Selamat Ulang Tahun!",
-  "outroText": "Oke, Sekarang balas chat aku dan bilang kalo kamu suka ini.",
-  "replayText": "atau klik tulisan ini kalo kamu pengen lihat lagi.",
+  "outroText": "Dahlah segitu aja yang ingin aku sampaikan.",
+  "replayText": "klik tulisan ini kalo kamu pengen lihat lagi.",
   "outroSmiley": ":)"
 }
